@@ -7,7 +7,8 @@
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
     "expressworks": "^3.2.0",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "stylus": "^0.52.4"
   },
   "devDependencies": {},
   "scripts": {
